@@ -1,4 +1,7 @@
 Step 1: Create an Autodesk Account.
+
+Skip this step if you already have an account - instead click 'Sign In'.
+
 Visit https://www.tinkercad.com/ and click 'Join Now' (in the top right-hand corner).
 
 If you are under 13, you will need to get your account verified by an adult.
